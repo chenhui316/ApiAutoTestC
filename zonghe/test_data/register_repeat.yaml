@@ -1,0 +1,2 @@
+- data: {"mobilephone": "13995917432", 'pwd': '123456'}
+  expect: {"status": 0, "code": "20110", "data": null, "msg": "手机号码已被注册"}

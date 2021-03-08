@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43a954e5-de2b-49ad-bfe0-5d2fb869f411" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ng3ApMbSEuyDQTDNh8m307mR5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ApiAutoTest\day02" />
+      <recent name="E:\ApiAutoTest\day02\test_006" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_login2.test_login">
+    <configuration name="pytest for test_login2.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login2.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.test_login_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_login_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_register.test_register_repeat" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.test_register_repeat&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zonghe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zonghe/test_script/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_login2.test_login" />
+        <item itemvalue="Python tests.pytest for test_login.test_login" />
+        <item itemvalue="Python tests.pytest for test_login.test_login_fail" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest for test_register.test_register_repeat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a954e5-de2b-49ad-bfe0-5d2fb869f411" name="Default Changelist" comment="" />
+      <created>1611797766733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611797766733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="82" key="#Inspections" timestamp="1614057605643">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="309" y="82" key="#Inspections/0.40.1366.728@0.40.1366.728" timestamp="1614057605643" />
+    <state x="237" y="30" width="816" height="730" key="#Intentions" timestamp="1613985916450">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="237" y="30" width="816" height="730" key="#Intentions/0.0.1304.768@0.0.1304.768" timestamp="1613985916450" />
+    <state x="533" y="246" key="#Notifications" timestamp="1614130155091">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="533" y="246" key="#Notifications/0.0.1302.768@0.0.1302.768" timestamp="1614130155091" />
+    <state x="766" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614046713717">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="766" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1302.768@0.0.1302.768" timestamp="1614046713717" />
+    <state x="463" y="161" key="FileChooserDialogImpl" timestamp="1614068018505">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613783772140" />
+    <state x="463" y="161" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1614068018505" />
+    <state width="898" height="311" key="GridCell.Tab.0.bottom" timestamp="1614135428491">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="898" height="311" key="GridCell.Tab.0.bottom/0.0.1302.768@0.0.1302.768" timestamp="1614135428491" />
+    <state width="1266" height="88" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1613974832813" />
+    <state width="1345" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613753198233" />
+    <state width="1345" height="570" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1614083508367" />
+    <state width="898" height="311" key="GridCell.Tab.0.center" timestamp="1614135428490">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="898" height="311" key="GridCell.Tab.0.center/0.0.1302.768@0.0.1302.768" timestamp="1614135428490" />
+    <state width="1266" height="88" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1613974832813" />
+    <state width="1345" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613753198233" />
+    <state width="1345" height="570" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1614083508367" />
+    <state width="898" height="311" key="GridCell.Tab.0.left" timestamp="1614135428490">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="898" height="311" key="GridCell.Tab.0.left/0.0.1302.768@0.0.1302.768" timestamp="1614135428490" />
+    <state width="1266" height="88" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1613974832813" />
+    <state width="1345" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613753198233" />
+    <state width="1345" height="570" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1614083508367" />
+    <state width="898" height="311" key="GridCell.Tab.0.right" timestamp="1614135428491">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="898" height="311" key="GridCell.Tab.0.right/0.0.1302.768@0.0.1302.768" timestamp="1614135428491" />
+    <state width="1266" height="88" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1613974832813" />
+    <state width="1345" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613753198233" />
+    <state width="1345" height="570" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1614083508367" />
+    <state x="66" y="17" width="1108" height="711" key="SettingsEditor" timestamp="1614128943475">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="66" y="17" key="SettingsEditor/0.0.1302.768@0.0.1302.768" timestamp="1614128943475" />
+    <state x="148" y="18" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1613985988568" />
+    <state x="69" y="56" width="1108" height="711" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1614078111558" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1614077392163">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1613751563219" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1614077392163" />
+  </component>
+</project>
